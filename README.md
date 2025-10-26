@@ -24,3 +24,51 @@ Guías paso a paso para crear contenido de video, configurar tu canal, subir vid
 
 Tutoriales para estudiantes sobre cómo navegar en la plataforma de gestión del aprendizaje (LMS), cómo enviar tareas, participar en foros y revisar calificaciones. ¡Domina tu entorno virtual de aprendizaje!
 
+TABLA DE CONTENIDO 
+1. Subir un archivo a Google Drive
+2. Subir un video a Youtube
+
+
+
+1- Subir un archivo a Google Drive
+
+Aprender a subir archivos a Google Drive es el primer paso para tener tu información organizada y accesible desde cualquier lugar. ¡Elige el método que más te guste!
+
+💻 Opción 1: Desde tu Computadora (Escritorio o Laptop)
+Tienes dos súper poderes para subir archivos:
+
+A. Método Rápido: "Arrastrar y Soltar" (¡El Favorito!)
+
+Este es el método más rápido y visual para mover tus archivos directamente desde tu equipo a la nube.
+
+Abre las dos ventanas: Coloca tu navegador con Google Drive abierto y la carpeta de tu computadora con el archivo que quieres subir lado a lado.
+
+¡Carga Mágica! Haz clic en el archivo que deseas subir, mantén el botón presionado y arrástralo directamente hasta la ventana de Google Drive.
+
+Suelta y Listo: Suelta el clic en el área de Drive. Verás una notificación que confirma que tu archivo está siendo subido. ¡Tan fácil como eso!
+
+B. Método Tradicional: Usando el Menú + Nuevo
+
+Si prefieres usar los menús, sigue estos pasos:
+
+Entra a tu Drive: Ve a drive.google.com e inicia sesión.
+
+Busca el Botón Mágico: Localiza y haz clic en el botón + Nuevo (está en la esquina superior izquierda).
+
+Selecciona la Acción: Elige la opción Subir archivo en el menú desplegable.
+
+Encuentra tu Archivo: Se abrirá el explorador de archivos de tu computadora. ¡Busca esa presentación o documento secreto!
+
+Confirma: Selecciónalo y haz clic en Abrir. ¡Drive comenzará la carga inmediatamente!
+
+📱 Opción 2: Desde tu Dispositivo Móvil (Celular o Tablet)
+
+¿Estás en la calle? ¡No hay problema! Sube fotos y documentos directamente desde la aplicación de Drive:
+
+Abre la App: Inicia la aplicación de Google Drive en tu dispositivo.
+
+Toca el +: Busca y toca el icono + (generalmente en la esquina inferior derecha).
+
+Elige Subir: Selecciona la opción Subir (Upload).
+
+Selecciona y Sube: Tu teléfono te pedirá que navegues por tus fotos y archivos. Selecciona el que necesitas y ¡listo! Tu archivo estará en la nube.
