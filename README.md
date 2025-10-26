@@ -20,9 +20,9 @@ Descubre cómo crear presentaciones dinámicas y cautivadoras que van más allá
 
 Guías paso a paso para crear contenido de video, configurar tu canal, subir videos y optimizar su visibilidad. ¡Lleva tus proyectos a la audiencia global!
 
-💻 CANVAS (LMS)
+💻 CANVAS 
 
-Tutoriales para estudiantes sobre cómo navegar en la plataforma de gestión del aprendizaje (LMS), cómo enviar tareas, participar en foros y revisar calificaciones. ¡Domina tu entorno virtual de aprendizaje!
+Tutoriales para estudiantes sobre cómo crear una infografia con un diseño atractivo!
 
 TABLA DE CONTENIDO 
 1. Subir un archivo a Google Drive
