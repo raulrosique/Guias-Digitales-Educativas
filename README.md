@@ -72,3 +72,6 @@ Toca el +: Busca y toca el icono + (generalmente en la esquina inferior derecha)
 Elige Subir: Selecciona la opción Subir (Upload).
 
 Selecciona y Sube: Tu teléfono te pedirá que navegues por tus fotos y archivos. Selecciona el que necesitas y ¡listo! Tu archivo estará en la nube.
+
+En el siguiente enlace puedes visualizar un tutorial 
+https://www.youtube.com/watch?v=1X1dewpOPSo
