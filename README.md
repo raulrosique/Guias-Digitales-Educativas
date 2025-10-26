@@ -30,7 +30,7 @@ TABLA DE CONTENIDO
 
 
 
-1- Subir un archivo a Google Drive
+                                                    1- Subir un archivo a Google Drive
 
 Aprender a subir archivos a Google Drive es el primer paso para tener tu información organizada y accesible desde cualquier lugar. ¡Elige el método que más te guste!
 
@@ -75,3 +75,34 @@ Selecciona y Sube: Tu teléfono te pedirá que navegues por tus fotos y archivos
 
 En el siguiente enlace puedes visualizar un tutorial 
 https://www.youtube.com/watch?v=1X1dewpOPSo
+
+
+                                                      2. Subir un video a Youtube
+
+
+Estás a solo un clic de compartir tu mensaje, tutorial o proyecto con el mundo. El proceso es sencillo, pero la clave está en los detalles que le agregas a tu video.
+
+💻 Opción 1: Desde tu Computadora (Recomendado para Control Total)
+
+Este método te da acceso completo a todas las opciones de configuración de YouTube Studio.
+
+1. Entra a tu Zona de Control (YouTube Studio)
+   
+Inicia Sesión: Ve a youtube.com y asegúrate de haber iniciado sesión con la cuenta de tu canal.
+
+Encuentra el Botón Mágico: En la esquina superior derecha, haz clic en el ícono de Crear (parece una pequeña cámara de video con un signo +).
+
+Selecciona la Acción: Elige Subir video. Esto te llevará al YouTube Studio.
+
+2. Sube el Archivo de Video
+   
+Tienes dos maneras súper rápidas de iniciar la carga:
+
+Método Rápido (Arrastrar): Minimiza la ventana del navegador. Arrastra el archivo de video (por ejemplo, Mi-Tutorial-Final.mp4) directamente desde tu escritorio o carpeta a la ventana de YouTube Studio.
+
+Método Tradicional (Seleccionar): Haz clic en el botón azul SELECCIONAR ARCHIVOS, busca el video en tu computadora y pulsa Abrir.
+
+(El video comenzará a cargarse mientras tú trabajas en los detalles. ¡Aprovecha el tiempo!)
+
+En el siguiente enlace puedes visualizar un tutorial 
+https://www.youtube.com/watch?v=21ntVeaCj3M
