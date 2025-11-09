@@ -1,108 +1,106 @@
-📚 Repositorio de Guías Digitales Esenciales
+# 📚 REPOSITORIO DE GUÍAS DIGITALES ESENCIALES
+
+[![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/TU_REPOSITORIO?style=social)](https://github.com/TU_USUARIO/TU_REPOSITORIO/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ¡Bienvenidos a su centro de recursos para dominar las herramientas digitales más importantes para el estudio y la creatividad!
 
-Este repositorio ha sido creado con el propósito de brindar tutoriales claros y concisos que te permitirán navegar y utilizar eficientemente plataformas clave en tu desarrollo académico y profesional.
+Este repositorio ha sido creado con el propósito de **brindar tutoriales claros y concisos** que te permitirán navegar y utilizar eficientemente plataformas clave en tu desarrollo académico y profesional.
 
-🎯 ¿Qué Encontrarás Aquí?
+---
+
+## 🎯 ÍNDICE DE CONTENIDOS
+
+| 🛠️ Módulo | Descripción Rápida | Enlace Directo |
+| :--- | :--- | :--- |
+| **Google Drive** | Almacenamiento, organización y colaboración en la nube. | [Ir a Tutorial Drive](#1-google-drive-almacenamiento-y-organizacin) |
+| **YouTube** | Subida, optimización y gestión de tu contenido de video. | [Ir a Tutorial YouTube](#2-youtube-subir-videos-y-detalles-de-lanzamiento) |
+| **Prezi** | Creación de presentaciones dinámicas y fuera de lo común. | [Próximamente] |
+| **Canvas** | Uso eficiente de tu plataforma de gestión del aprendizaje (LMS). | [Próximamente] |
+
+---
+
+## Módulos de Aprendizaje y Herramientas
 
 Hemos organizado las guías en módulos de aprendizaje enfocados en las plataformas más demandadas:
 
-☁️ Google Drive
+### ☁️ Google Drive
+Aprende a organizar, compartir y colaborar en tiempo real. Desde la subida básica de archivos hasta la gestión avanzada de permisos. **¡Di adiós al desorden digital!**
 
-Aprende a organizar, compartir y colaborar en tiempo real. Desde la subida básica de archivos hasta la gestión avanzada de permisos. ¡Di adiós al desorden digital!
+### 🎨 Prezi
+Descubre cómo crear presentaciones dinámicas y cautivadoras que van más allá del formato tradicional. **¡Deja de lado el PowerPoint aburrido!**
 
-🎨 Prezi
+### 🎬 YouTube: Creación y Gestión
+Guías paso a paso para crear contenido de video, configurar tu canal, subir videos y optimizar su visibilidad. **¡Lleva tus proyectos a la audiencia global!**
 
-Descubre cómo crear presentaciones dinámicas y cautivadoras que van más allá del formato tradicional. ¡Deja de lado el PowerPoint aburrido!
+### 💻 Canvas (LMS)
+Tutoriales para estudiantes sobre cómo navegar en la plataforma de gestión del aprendizaje (LMS), cómo enviar tareas, participar en foros y revisar calificaciones. **¡Domina tu entorno virtual de aprendizaje!**
 
-🎬 YouTube: Creación y Gestión
+---
 
-Guías paso a paso para crear contenido de video, configurar tu canal, subir videos y optimizar su visibilidad. ¡Lleva tus proyectos a la audiencia global!
+## 🚀 TUTORIALES ESENCIALES
 
-💻 CANVAS 
+### 1. Google Drive: Almacenamiento y Organización
 
-Tutoriales para estudiantes sobre cómo crear una infografia con un diseño atractivo!
+Aprender a subir archivos a Google Drive es el primer paso para tener tu información organizada y accesible desde cualquier lugar. **¡Elige el método que más te guste!**
 
-TABLA DE CONTENIDO 
-1. Subir un archivo a Google Drive
-2. Subir un video a Youtube
+#### 💻 Opción A: Desde tu Computadora (Escritorio o Laptop)
 
+| Método | Descripción | Pasos Detallados |
+| :--- | :--- | :--- |
+| **Arrastrar y Soltar** | **¡El más rápido!** Mueve archivos directamente desde tu equipo a la ventana del navegador. | 1. Abre tu **Drive** y la **Carpeta** con tu archivo. 2. Haz clic en el archivo y **arrástralo** a la ventana de Google Drive. 3. Suelta y espera la notificación de carga. |
+| **Menú `+ Nuevo`** | Uso del botón estándar de la interfaz de Drive. | 1. Ve a [drive.google.com](https://drive.google.com/). 2. Haz clic en el botón **`+ Nuevo`** (arriba a la izquierda). 3. Selecciona **`Subir archivo`**. 4. Busca el archivo en tu computadora y pulsa **`Abrir`**. |
 
+#### 📱 Opción B: Desde tu Dispositivo Móvil
 
-                                                    1- Subir un archivo a Google Drive
+1.  Abre la **App** de Google Drive.
+2.  Busca y toca el icono **`+`** (generalmente en la esquina inferior derecha).
+3.  Elige la opción **`Subir`** (Upload).
+4.  Selecciona el archivo de tu galería y ¡listo!
 
-Aprender a subir archivos a Google Drive es el primer paso para tener tu información organizada y accesible desde cualquier lugar. ¡Elige el método que más te guste!
+**🎥 Video-Tutorial Relacionado:**
+[Enlace al Tutorial de Google Drive](https://www.youtube.com/watch?v=1X1dewpOPSo)
 
-💻 Opción 1: Desde tu Computadora (Escritorio o Laptop)
-Tienes dos súper poderes para subir archivos:
+***
 
-A. Método Rápido: "Arrastrar y Soltar" (¡El Favorito!)
+### 2. YouTube: Subir Videos y Detalles de Lanzamiento
 
-Este es el método más rápido y visual para mover tus archivos directamente desde tu equipo a la nube.
+Estás a solo un clic de compartir tu mensaje. La clave está en los **detalles** que optimizarán la visibilidad de tu video.
 
-Abre las dos ventanas: Coloca tu navegador con Google Drive abierto y la carpeta de tu computadora con el archivo que quieres subir lado a lado.
+#### 💻 Desde tu Computadora (Recomendado para Control Total)
 
-¡Carga Mágica! Haz clic en el archivo que deseas subir, mantén el botón presionado y arrástralo directamente hasta la ventana de Google Drive.
+**Paso 1: Entra a tu Zona de Control (YouTube Studio)**
 
-Suelta y Listo: Suelta el clic en el área de Drive. Verás una notificación que confirma que tu archivo está siendo subido. ¡Tan fácil como eso!
+1.  Ve a [youtube.com](https://www.youtube.com/) e inicia sesión.
+2.  Haz clic en el ícono **`Crear`** (cámara con `+`) en la esquina superior derecha.
+3.  Selecciona **`Subir video`**.
 
-B. Método Tradicional: Usando el Menú + Nuevo
+**Paso 2: Sube el Archivo de Video**
 
-Si prefieres usar los menús, sigue estos pasos:
+* **Arrastrar (Súper Rápido):** Arrastra el archivo (`Mi-Tutorial.mp4`) desde tu escritorio directamente a la ventana de YouTube Studio.
+* **Seleccionar:** Haz clic en **`SELECCIONAR ARCHIVOS`**, busca el video en tu computadora y pulsa `Abrir`.
 
-Entra a tu Drive: Ve a drive.google.com e inicia sesión.
+> 💡 **Tip:** El video comenzará a cargarse mientras trabajas en el siguiente paso.
 
-Busca el Botón Mágico: Localiza y haz clic en el botón + Nuevo (está en la esquina superior izquierda).
+**Paso 3: ¡Detalles Atractivos! (Clave para la Visibilidad)**
 
-Selecciona la Acción: Elige la opción Subir archivo en el menú desplegable.
+Rellena esta información crucial mientras el video se procesa:
 
-Encuentra tu Archivo: Se abrirá el explorador de archivos de tu computadora. ¡Busca esa presentación o documento secreto!
+| Campo | Consejo Estratégico |
+| :--- | :--- |
+| **Título** | Debe ser un **gancho**. Sé claro (ej: "Tutorial Drive Básico"), pero atractivo. |
+| **Descripción** | **Resume lo que se aprenderá.** Incluye un párrafo, enlaces a tu repositorio y ¡marcas de tiempo! (Ej: `00:30 - Inicio del tutorial`). |
+| **Miniatura** | Sube una miniatura **personalizada y de alta calidad**. Es la portada que invita al clic. |
+| **Audiencia** | Obligatorio: Selecciona **`No, no es contenido creado para niños`** (a menos que tu video sea infantil). |
 
-Confirma: Selecciónalo y haz clic en Abrir. ¡Drive comenzará la carga inmediatamente!
+**Paso 4: Finaliza la Publicación (Visibilidad)**
 
-📱 Opción 2: Desde tu Dispositivo Móvil (Celular o Tablet)
+Decide cuándo y cómo se lanza tu video:
 
-¿Estás en la calle? ¡No hay problema! Sube fotos y documentos directamente desde la aplicación de Drive:
+* **Privado:** Solo tú y usuarios seleccionados.
+* **No Listado:** Quien tenga el enlace puede verlo, pero no aparece en búsquedas (perfecto para clases privadas).
+* **Público:** Disponible para todo el mundo.
+* **Programar:** Elige una fecha y hora exactas para un lanzamiento automático y profesional.
 
-Abre la App: Inicia la aplicación de Google Drive en tu dispositivo.
-
-Toca el +: Busca y toca el icono + (generalmente en la esquina inferior derecha).
-
-Elige Subir: Selecciona la opción Subir (Upload).
-
-Selecciona y Sube: Tu teléfono te pedirá que navegues por tus fotos y archivos. Selecciona el que necesitas y ¡listo! Tu archivo estará en la nube.
-
-En el siguiente enlace puedes visualizar un tutorial 
-https://www.youtube.com/watch?v=1X1dewpOPSo
-
-
-                                                      2. Subir un video a Youtube
-
-
-Estás a solo un clic de compartir tu mensaje, tutorial o proyecto con el mundo. El proceso es sencillo, pero la clave está en los detalles que le agregas a tu video.
-
-💻 Opción 1: Desde tu Computadora (Recomendado para Control Total)
-
-Este método te da acceso completo a todas las opciones de configuración de YouTube Studio.
-
-1. Entra a tu Zona de Control (YouTube Studio)
-   
-Inicia Sesión: Ve a youtube.com y asegúrate de haber iniciado sesión con la cuenta de tu canal.
-
-Encuentra el Botón Mágico: En la esquina superior derecha, haz clic en el ícono de Crear (parece una pequeña cámara de video con un signo +).
-
-Selecciona la Acción: Elige Subir video. Esto te llevará al YouTube Studio.
-
-2. Sube el Archivo de Video
-   
-Tienes dos maneras súper rápidas de iniciar la carga:
-
-Método Rápido (Arrastrar): Minimiza la ventana del navegador. Arrastra el archivo de video (por ejemplo, Mi-Tutorial-Final.mp4) directamente desde tu escritorio o carpeta a la ventana de YouTube Studio.
-
-Método Tradicional (Seleccionar): Haz clic en el botón azul SELECCIONAR ARCHIVOS, busca el video en tu computadora y pulsa Abrir.
-
-(El video comenzará a cargarse mientras tú trabajas en los detalles. ¡Aprovecha el tiempo!)
-
-En el siguiente enlace puedes visualizar un tutorial 
-https://www.youtube.com/watch?v=21ntVeaCj3M
+**🎥 Video-Tutorial Relacionado:**
+[Enlace al Tutorial de Subida a YouTube](https://www.youtube.com/watch?v=21ntVeaCj3M)
