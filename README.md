@@ -149,3 +149,7 @@ Prezi define una ruta por defecto basado en tu plantilla, pero tú la controlas.
 
 🎥 Video-Tutorial Relacionado:  
 Enlace al Tutorial de Prezi Present (Cómo empezar)
+
+Responder a la encuesta de satisfacción
+
+https://forms.office.com/r/nYfuEYZwpg
