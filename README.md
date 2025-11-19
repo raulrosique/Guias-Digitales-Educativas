@@ -10,8 +10,9 @@ Este repositorio ha sido creado con el propósito de **brindar tutoriales claros
 | :---- | :---- | :---- |
 | **Google Drive** | Almacenamiento, organización y colaboración en la nube. | [Ir a Tutorial Drive](https://www.google.com/search?q=%231-google-drive-almacenamiento-y-organizacin) |
 | **YouTube** | Subida, optimización y gestión de tu contenido de video. | [Ir a Tutorial YouTube](https://www.google.com/search?q=%232-youtube-subir-videos-y-detalles-de-lanzamiento) |
-| **Prezi** | Creación de presentaciones dinámicas y fuera de lo común. | [Ir a Tutorial Prezi](https://www.google.com/search?q=%233-prezi-creacin-de-presentaciones-dinmicas) |
-| **Canvas** | Uso eficiente de tu plataforma de gestión del aprendizaje (LMS). | \[Próximamente\] |
+| **Prezi** | Creación de presentaciones dinámicas y de alto impacto. | [Ir a Tutorial Prezi](https://www.google.com/search?q=%233-prezi-creando-presentaciones-de-alto-impacto) |
+| **Canva** | Guía completa para diseñar infografías profesionales. | [Ir a Tutorial Canva](https://www.google.com/search?q=%234-canva-gua-completa-para-infografas) |
+| **Procedimiento** | Flujo de trabajo paso a paso para cualquier tarea. | [Ir a Procedimiento](https://www.google.com/search?q=%23-procedimiento-estndar-para-desarrollar-una-actividad) |
 
 ## **Módulos de Aprendizaje y Herramientas**
 
@@ -29,9 +30,9 @@ Descubre cómo crear presentaciones dinámicas y cautivadoras que van más allá
 
 Guías paso a paso para crear contenido de video, configurar tu canal, subir videos y optimizar su visibilidad. **¡Lleva tus proyectos a la audiencia global\!**
 
-### **💻 Canvas (LMS)**
+### **💻 Canva (Diseño Gráfico)**
 
-Tutoriales para estudiantes sobre cómo navegar en la plataforma de gestión del aprendizaje (LMS), cómo enviar tareas, participar en foros y revisar calificaciones. **¡Domina tu entorno virtual de aprendizaje\!**
+Tutoriales detallados sobre cómo estructurar y diseñar infografías atractivas, desde la planeación del contenido hasta la exportación final. **¡Comunica visualmente\!**
 
 ## **🚀 TUTORIALES ESENCIALES**
 
@@ -48,10 +49,11 @@ Aprender a subir archivos a Google Drive es el primer paso para tener tu informa
 
 #### **📱 Opción B: Desde tu Dispositivo Móvil**
 
-1.  Abre la App de Google Drive.  
-2.  Busca y toca el icono \+ (generalmente en la esquina inferior derecha).  
-3.  Elige la opción Subir (Upload).  
-4.  Selecciona el archivo de tu galería y ¡listo\!  
+1. Abre la **App** de Google Drive.  
+2. Busca y toca el icono **\+** (generalmente en la esquina inferior derecha).  
+3. Elige la opción **Subir** (Upload).  
+4. Selecciona el archivo de tu galería y ¡listo\!
+
 🎥 Video-Tutorial Relacionado:  
 Enlace al Tutorial de Google Drive
 
@@ -63,9 +65,10 @@ Estás a solo un clic de compartir tu mensaje. La clave está en los **detalles*
 
 **Paso 1: Entra a tu Zona de Control (YouTube Studio)**
 
-1.  Ve a youtube.com e inicia sesión.  
-2.  Haz clic en el ícono Crear (cámara con \+) en la esquina superior derecha.  
-3.  Selecciona Subir video.  
+1. Ve a [youtube.com](https://www.youtube.com/) e inicia sesión.  
+2. Haz clic en el ícono **Crear** (cámara con \+) en la esquina superior derecha.  
+3. Selecciona **Subir video**.
+
 **Paso 2: Sube el Archivo de Video**
 
 * **Arrastrar (Súper Rápido):** Arrastra el archivo (Mi-Tutorial.mp4) desde tu escritorio directamente a la ventana de YouTube Studio.  
@@ -96,60 +99,142 @@ Decide cuándo y cómo se lanza tu video:
 🎥 Video-Tutorial Relacionado:  
 Enlace al Tutorial de Subida a YouTube
 
-### **3\. Prezi: Creación de Presentaciones Dinámicas**
+### **3\. Prezi: Creando Presentaciones de Alto Impacto**
 
-Prezi rompe con la secuencia lineal de diapositivas (slide-por-slide). Funciona como un gran **lienzo (canvas)** donde puedes organizar tus ideas, conectarlas y "viajar" entre ellas con efectos de zoom y panorámica (paneo).
-
-#### **🗺️ El Concepto: Mapa Mental vs. Diapositivas**
-
-Piensa en Prezi como un mapa mental. Tienes una idea principal (la "Gran Imagen") y varias ideas secundarias (Temas) que se desprenden de ella. Puedes explorar cada tema a fondo y luego regresar a la vista general para mostrar la conexión.
-
-#### **🚀 Pasos para Crear tu Primera Presentación en Prezi**
-
-**Paso 1: Iniciar un Nuevo Proyecto**
-
-1. Inicia sesión en [prezi.com](https://prezi.com/).  
-2. Desde tu panel de control, selecciona **Prezi Present** (el más común).  
-3. Elige **Crear a partir de plantilla** (recomendado para empezar).  
-4. Explora las categorías (ej: "Educación", "Marketing") y selecciona una plantilla que te guste. Haz clic en **Usar esta plantilla**.
-
-**Paso 2: Entender la Interfaz**
-
-| Elemento | Descripción |
-| :---- | :---- |
-| **Vista General (Overview)** | Es tu lienzo principal. Es lo primero que ve tu audiencia. |
-| **Temas (Topics)** | Son las secciones principales de tu presentación (equivalentes a las diapositivas principales). |
-| **Subtemas (Subtopics)** | Son las ideas dentro de un Tema. Te permiten profundizar en un punto específico. |
-| **Barra Lateral Izquierda** | Aquí ves y reordenas la **Ruta (Path)**, es decir, el orden en que Prezi "viajará" por tus temas. |
-
-**Paso 3: Añadir y Editar Contenido**
-
-* **Editar Texto:** Simplemente haz doble clic en cualquier cuadro de texto para escribir.  
-* **Insertar (Menú Superior):** Usa el botón **Insertar** para añadir:  
-  * Texto  
-  * Imágenes (puedes subirlas o usar la biblioteca gratuita).  
-  * Iconos y Formas  
-  * Video (subir o enlazar desde YouTube).  
-  * Flechas y Líneas (para conectar ideas visualmente).
-
-**Paso 4: Definir la Ruta (El "Zoom")**
-
-Prezi define una ruta por defecto basado en tu plantilla, pero tú la controlas.
-
-1. En la **barra lateral izquierda**, verás el orden de tu presentación.  
-2. **Arrastra y suelta** las vistas previas de los Temas para reordenar tu presentación.  
-3. **Para añadir una vista nueva:** Haz clic en el botón \+ Zoom add en la parte inferior de la barra lateral. Puedes hacer zoom a un área específica del lienzo o a un objeto (como una imagen).
-
-**Paso 5: Presentar y Compartir**
-
-* **Presentar:** Haz clic en el botón **Presentar** (icono de Play) en la esquina superior derecha. Usa las flechas del teclado o del mouse para moverte por la ruta.  
-* **Compartir:** Haz clic en el botón **Compartir**.  
-  * **Enlace de visualización:** Crea un enlace público o privado para que otros vean tu Prezi (sin poder editarlo).  
-  * **Colaborar:** Invita a otros por email para que editen la presentación contigo en tiempo real.
+Prezi rompe con la diapositiva tradicional. En lugar de "pasar páginas", te mueves por un gran lienzo (canvas), haciendo zoom en diferentes ideas.
 
 🎥 Video-Tutorial Relacionado:  
-Enlace al Tutorial de Prezi Present (Cómo empezar)
+Tutorial Completo Prezi 2024
 
-Responder a la encuesta de satisfacción
+#### **Paso 1: Elige tu Punto de Partida (Plantilla)**
 
-https://forms.office.com/r/nYfuEYZwpg
+1. Inicia sesión en [Prezi.com](https://prezi.com/).  
+2. Desde tu panel principal (Dashboard), selecciona **Prezi Present**.  
+3. **Selecciona una plantilla** que se ajuste a tu tema (Recomendado para principiantes).
+
+#### **Paso 2: Entiende la Lógica del "Zoom"**
+
+**Piensa en tu presentación como un Sistema Solar:**
+
+* **Vista General:** El universo completo.  
+* **Tópicos:** Planetas (Ideas principales).  
+* **Subtópicos:** Lunas (Detalles).
+
+#### **Paso 3: Edita y Personaliza**
+
+1. **Editar Texto:** Haz clic en cualquier caja de texto.  
+2. **Añadir Subtópicos:** Usa el botón **\+ Subtópico** en la barra lateral.  
+3. **Estilo:** Usa el botón **Estilo** superior para cambiar colores y fuentes.
+
+#### **Paso 4: Comparte**
+
+Haz clic en **Compartir** \> **Crear un nuevo enlace** para enviar tu presentación.
+
+### **4\. Canva: Guía Completa para Infografías**
+
+Canva es la herramienta ideal para transformar información compleja en gráficos visuales atractivos.
+
+🎥 Video-Tutorial Relacionado:  
+Tutorial de Canva para Principiantes
+
+#### **📝 FASE 1: Estructura y Contenido Básico**
+
+**Antes de diseñar**, asegúrate de tener lista la información. Una infografía exitosa debe contener estos 4 pilares:
+
+1. **Título Impactante:**  
+   * Debe ser grande, legible y corto.  
+   * *Ejemplo:* "5 Pasos para el Reciclaje" (No uses: "Informe sobre cómo reciclar en casa").  
+2. **Cuerpo (La Información Clave):**  
+   * Resume tu investigación en puntos clave.  
+   * Usa viñetas o listas numeradas.  
+   * **Regla de Oro:** Poco texto, muchas imágenes.  
+3. **Datos Visuales:**  
+   * Apoya tu texto con gráficos de barras, mapas, íconos o números grandes (ej: "80%").  
+4. **Fuentes y Créditos:**  
+   * Al pie de la infografía, en letra pequeña, coloca tu nombre y las fuentes de donde obtuviste la información (libros, webs).
+
+#### **🛠️ FASE 2: Desarrollo Paso a Paso en Canva**
+
+Sigue estos pasos para construir tu infografía desde cero o con ayuda:
+
+**Paso 1: Encuentra la Plantilla Perfecta**
+
+1. Inicia sesión en [Canva.com](https://www.canva.com/).  
+2. En el buscador principal escribe: **"Infografía"**.  
+3. Filtra por categoría (Educación, Procesos, Cronología) según lo que necesites explicar.  
+4. Haz clic en la plantilla que más te guste para abrir el editor.
+
+**Paso 2: Personalización del Contenido**
+
+* **Editar Texto:** Haz doble clic sobre los textos de la plantilla y escribe tu título y cuerpo.  
+* **Ajustar Fuentes:** Usa la barra superior para cambiar la tipografía. *Recomendación:* Usa letras gruesas (Bold) para títulos y sencillas (Sans Serif) para párrafos.  
+* **Colores:** Haz clic en el fondo o elementos y cambia los colores para que coincidan con tu tema (ej: Verde para temas ecológicos).
+
+**Paso 3: Potencia con Elementos Visuales (Crucial)**
+
+El secreto de una infografía es lo visual. Sustituye los adornos de la plantilla por iconos reales de tu tema.
+
+1. Ve a la pestaña izquierda **Elementos**.  
+2. Usa el buscador para encontrar iconos específicos: "Cerebro", "Libro", "Mundo", "Átomo".  
+3. **Arrastra** el icono al lienzo.  
+4. *Tip:* Intenta que todos los iconos tengan el mismo estilo (todos dibujos planos o todos 3D).
+
+**Paso 4: Inserta Gráficos de Datos (Opcional)**
+
+Si tienes estadísticas (ej: "El 50% de los estudiantes..."):
+
+1. En la pestaña Elementos, baja hasta encontrar **Gráficos**.  
+2. Elige un gráfico de pastel o de barras.  
+3. Edita los datos en la tabla que aparece a la izquierda.
+
+**Paso 5: Exportación y Entrega**
+
+1. Haz clic en el botón **Compartir** (arriba a la derecha).  
+2. Selecciona **Descargar**.  
+3. Elige el formato correcto:  
+   * **PDF Estándar:** Ideal para enviar por correo o subir a tareas (mantiene la calidad del texto).  
+   * **PNG/JPG:** Ideal si vas a compartirla en redes sociales o insertarla en un documento de Word.
+
+## **📋 Procedimiento Estándar para Desarrollar una Actividad**
+
+Para garantizar que tus entregas cumplan con los estándares de calidad, te sugerimos seguir este flujo de trabajo en cada actividad escolar, utilizando las herramientas de este repositorio.
+
+### **Paso 1: Análisis y Planeación 🧠**
+
+Antes de abrir cualquier herramienta digital:
+
+1. **Lee la rúbrica:** Asegúrate de entender qué se evaluará (creatividad, contenido, fuentes, diseño).  
+2. **Investiga:** Recopila la información necesaria en un documento de texto simple (Borrador).  
+3. **Define el Formato:**  
+   * ¿Necesitas exponer un tema interactivo? 👉 [**Ve al módulo de Prezi**](https://www.google.com/search?q=%233-prezi-creando-presentaciones-de-alto-impacto).  
+   * ¿Debes resumir datos visualmente? 👉 [**Ve al módulo de Canva**](https://www.google.com/search?q=%234-canva-gua-completa-para-infografas).  
+   * ¿Tienes que explicar un procedimiento? 👉 [**Ve al módulo de YouTube**](https://www.google.com/search?q=%232-youtube-subir-videos-y-detalles-de-lanzamiento).  
+   * ¿Es un trabajo escrito o archivo pesado? 👉 [**Ve al módulo de Google Drive**](https://www.google.com/search?q=%231-google-drive-almacenamiento-y-organizacin).
+
+### **Paso 2: Desarrollo y Diseño 🎨**
+
+Una vez elegida la herramienta:
+
+1. Sigue los tutoriales de este repositorio para configurar tu espacio de trabajo.  
+2. **Vuelca tu borrador** en la herramienta.  
+3. **Personaliza:** No uses las plantillas tal cual vienen; cambia colores y fuentes para darle tu toque personal.  
+4. **Cita tus fuentes:** Siempre incluye referencias al final de tu presentación, video o infografía.
+
+### **Paso 3: Revisión Final ✅**
+
+Antes de entregar, hazte estas 3 preguntas:
+
+* ¿El texto es legible y sin faltas de ortografía?  
+* ¿Las imágenes se ven en buena calidad (no pixeladas)?  
+* ¿El enlace funciona? (Prueba abrirlo en una ventana de incógnito para asegurarte de que es público).
+
+### **Paso 4: Exportación y Envío 🚀**
+
+1. Genera el archivo final (PDF, JPG, MP4) o el enlace público.  
+2. Sube tu evidencia a la plataforma correspondiente o compártela vía **Google Drive**.
+
+## **🗣️ Encuesta de Satisfacción**
+
+¡Tu opinión nos ayuda a mejorar\! Por favor, ayúdanos respondiendo esta breve encuesta:
+
+👉 [**Responder a la encuesta de satisfacción**](https://forms.office.com/r/nYfuEYZwpg)
